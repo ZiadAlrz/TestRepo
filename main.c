@@ -3,10 +3,6 @@
 #include "main.h"
 
 int multip(int a, int p);
-int call_main()
-{
-    main();
-}
 
 void main(void)
 {
