@@ -1,9 +1,8 @@
 #include "string.h"
 #include "stdio.h"
 #include "main.h"
-// int main(void);
-int multip(int a, int p);
 
+int multip(int a, int p);
 int call_main()
 {
     main();
