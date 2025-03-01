@@ -12,8 +12,3 @@ void main(void)
     printf("%d 3time4 is equal to %f",test_const,y);
     return;
 }
-
-int multip(int a, int p)
-{
-    return a*p;
-}
